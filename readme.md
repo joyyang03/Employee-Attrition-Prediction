@@ -18,5 +18,5 @@ Machine learning algorithms often showcase customer churn examples. Those algori
 
 Kfold cross validation, hyperparameter tuning, logistic regression, support vector classifier, gradient boosting classifier, k-nearest 
 
-**Please use following link to see the results**
+**Please use following link to see the results:**
 https://nbviewer.jupyter.org/github/joyyang03/Employee-Attrition-Prediction/blob/master/hris%20data%20analysis%20on%20factors%20of%20termination.ipynb
