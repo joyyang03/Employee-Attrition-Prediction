@@ -16,4 +16,4 @@ Machine learning algorithms often showcase customer churn examples. Those algori
 
 **Techniques Used**
 
-Kfold cross validation, hyperparameter tuning, logistic regression, support vector classifier, gradient boosting classifier, k-nearest 
+Kfold cross validation, hyperparameter tuning, logistic regression, support vector classifier, gradient boosting classifier, k-nearest neightbors
